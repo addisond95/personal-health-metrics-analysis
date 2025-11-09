@@ -1,7 +1,9 @@
 # Personal Health Metrics Analysis
 
+**Note:** This dataset and repository are actively evolving. Additional data will be uploaded over time, and the structure and documentation will be updated as the project expands.
+
 ## Overview
-This project analyzes a daily panel dataset of personal health and activity metrics to study behavioral patterns, evaluate lifestyle factors, and develop predictive models for future health trends. The dataset spans three to four months of continuous daily tracking and includes nutrition, exercise, sleep, mood, cardiovascular performance and qualitative notes.
+This project analyzes a daily panel dataset of personal health and activity metrics to study behavioral patterns, evaluate lifestyle factors, and develop predictive models for future health trends. The dataset spans several months of continuous tracking and includes nutrition, exercise, sleep, mood, cardiovascular performance and qualitative notes.
 
 The goal is to build an end to end workflow that incorporates data cleaning, exploratory analysis, database design, feature engineering, modeling and interpretation.
 
